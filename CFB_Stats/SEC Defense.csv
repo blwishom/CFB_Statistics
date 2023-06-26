@@ -1,0 +1,101 @@
+Player,Team,Int,Yds,Avg,Lg,TD,Solo,Ast,Tot,Sack,YdsL,"Stat Type"
+"Grant Delpit",LSU,5,1,0.20,1,0,46,28,74,5.0,44.0,Defense
+"Joejuan Williams",VAN,4,8,2.00,8,0,48,13,61,0.0,0.0,Defense
+"Chauncey Gardner-Johnson",FLA,4,110,27.50,53,2,37,34,71,3.0,10.0,Defense
+"Ryan Pulley",ARK,3,0,0.00,0,0,30,7,37,1.0,5.0,Defense
+"Cam Hilton",MIZZ,3,2,0.67,2,0,26,5,31,1.0,3.0,Defense
+"Frank Coppet",VAN,3,15,5.00,13,0,24,6,30,0.0,0.0,Defense
+"Rashad Fenton",SCAR,3,16,5.33,16,0,25,9,34,0.0,0.0,Defense
+"John Battle",LSU,3,29,9.67,29,0,13,26,39,0.0,0.0,Defense
+"Bryce Thompson",TENN,3,45,15.00,21,0,24,10,34,1.0,6.0,Defense
+"Darius West",KY,3,51,17.00,19,0,47,39,86,0.0,0.0,Defense
+"Saivion Smith",ALA,3,71,23.67,38t,1,36,24,60,0.0,0.0,Defense
+"DeMarkus Acy",MIZZ,3,73,24.33,76,0,25,5,30,0.0,0.0,Defense
+"Zedrick Woods",MISS,2,-2,-1.00,0,0,42,37,79,0.5,6.0,Defense
+"Jamel Dean",AUB,2,0,0.00,0,0,21,9,30,1.0,3.0,Defense
+"C.J. Henderson",FLA,2,0,0.00,0,0,26,12,38,3.0,21.0,Defense
+"J.R. Reed",UGA,2,0,0.00,0,0,38,28,66,1.0,8.0,Defense
+"Donovan Stiner",FLA,2,0,0.00,0,0,22,27,49,1.0,10.0,Defense
+"Erroll Thompson",MSST,2,0,0.00,0,0,31,56,87,3.5,26.0,Defense
+"Donovan Wilson",TAMU,2,0,0.00,0,0,37,29,66,2.0,13.0,Defense
+"Mack Wilson",ALA,2,0,0.00,0,0,36,35,71,1.0,1.0,Defense
+"Jeremiah Dinson",AUB,2,3,1.50,12,0,31,33,64,1.0,2.0,Defense
+"Dre Greenlaw",ARK,2,5,2.50,5,0,38,42,80,2.0,6.0,Defense
+"C.J. Morgan",MSST,2,7,3.50,7,0,13,7,20,0.0,0.0,Defense
+"Cameron Dantzler",MSST,2,8,4.00,7,0,32,11,43,1.0,9.0,Defense
+"Johnathan Abram",MSST,2,9,4.50,9,0,53,46,99,3.0,18.0,Defense
+"Marquill Osborne",TENN,2,13,6.50,12,0,3,5,8,0.0,0.0,Defense
+"Greedy Williams",LSU,2,20,10.00,20,0,23,10,33,0.0,0.0,Defense
+"Xavier McKinney",ALA,2,23,11.50,30t,1,44,29,73,3.0,40.0,Defense
+"Brad Stewart",FLA,2,25,12.50,25t,1,22,19,41,0.0,0.0,Defense
+"Daniel Thomas",AUB,2,29,14.50,29t,1,48,26,74,0.0,0.0,Defense
+"Kendarius Webster",MISS,2,30,15.00,30,0,26,7,33,0.0,0.0,Defense
+"Christian Holmes",MIZZ,2,42,21.00,42t,1,26,9,35,0.0,0.0,Defense
+"Willie Gay Jr.",MSST,2,49,24.50,46,0,20,28,48,5.0,46.0,Defense
+"Tae Crowder",UGA,2,56,28.00,43,0,18,35,53,1.5,8.0,Defense
+"Deionte Thompson",ALA,2,65,32.50,40,0,48,31,79,0.0,0.0,Defense
+"Javaris Davis",AUB,2,72,36.00,57,0,36,5,41,1.0,6.0,Defense
+"Mike Edwards",KY,2,79,39.50,66t,1,56,26,82,0.0,0.0,Defense
+"Deandre Baker",UGA,2,82,41.00,55,0,31,9,40,0.0,0.0,Defense
+"Shyheim Carter",ALA,2,89,44.50,45t,2,27,17,44,0.0,0.0,Defense
+"Derrick Baity",KY,1,-3,-3.00,0,0,27,11,38,0.0,0.0,Defense
+"Brian Cole II",MSST,1,0,0.00,0,0,5,6,11,1.0,1.0,Defense
+"Trevon Diggs",ALA,1,0,0.00,0,0,18,2,20,0.0,0.0,Defense
+"Kristian Fulton",LSU,1,0,0.00,0,0,19,5,24,0.0,0.0,Defense
+"Terez Hall",MIZZ,1,0,0.00,0,0,45,25,70,5.0,34.0,Defense
+"Todd Harris Jr.",LSU,1,0,0.00,0,0,19,12,31,0.0,0.0,Defense
+"Randall Haynie",VAN,1,0,0.00,0,0,13,2,15,0.0,0.0,Defense
+"John Huggins",FLA,1,0,0.00,0,0,2,1,3,0.0,0.0,Defense
+"Noah Igbinoghene",AUB,1,0,0.00,0,0,39,11,50,0.0,0.0,Defense
+"Smoke Monday",AUB,1,0,0.00,0,0,7,8,15,2.0,16.0,Defense
+"C.J. Moore",MISS,1,0,0.00,0,0,13,4,17,0.0,0.0,Defense
+"Charles Oliver",TAMU,1,0,0.00,0,0,23,8,31,0.0,0.0,Defense
+"Ed Paris",LSU,1,0,0.00,0,0,2,2,4,0.0,0.0,Defense
+"Larry Pryor",TAMU,1,0,0.00,0,0,25,9,34,1.0,9.0,Defense
+"Jamien Sherwood",AUB,1,0,0.00,0,0,12,11,23,1.5,15.0,Defense
+"Keidron Smith",MISS,1,0,0.00,0,0,29,18,47,0.0,0.0,Defense
+"Maurice Smitherman",MSST,1,0,0.00,0,0,11,12,23,0.0,0.0,Defense
+"Adam Sparks",MIZZ,1,0,0.00,0,0,31,7,38,0.0,0.0,Defense
+"Shy Tuttle",TENN,1,0,0.00,0,0,14,19,33,1.0,3.0,Defense
+"Louis Vecchio",VAN,1,0,0.00,0,0,14,10,24,3.0,12.0,Defense
+"Kary Vincent Jr.",LSU,1,0,0.00,0,0,20,11,31,1.0,8.0,Defense
+"Jamyest Williams",SCAR,1,0,0.00,0,0,21,11,32,0.0,0.0,Defense
+"JaCoby Stevens",LSU,1,1,1.00,1,0,19,16,35,1.5,12.0,Defense
+"Tyrique McGhee",UGA,1,2,2.00,2,0,11,12,23,0.0,0.0,Defense
+"Luke Ancrum",FLA,1,5,5.00,5,0,0,8,8,0.0,0.0,Defense
+"Dare Odeyingbo",VAN,1,7,7.00,7,0,15,13,28,0.0,0.0,Defense
+"Anfernee Jennings",ALA,1,8,8.00,8,0,26,24,50,5.5,26.0,Defense
+"Jonathan Kongbo",TENN,1,10,10.00,10,0,5,6,11,0.0,0.0,Defense
+"DeShawn Capers-Smith",TAMU,1,12,12.00,12,0,31,21,52,0.0,0.0,Defense
+"Sherrod Greene",SCAR,1,12,12.00,12t,1,32,41,73,0.0,0.0,Defense
+"Jordan Griffin",VAN,1,17,17.00,17,0,62,57,119,1.0,4.0,Defense
+"Jamin Davis",KY,1,18,18.00,18,0,6,4,10,0.0,0.0,Defense
+"Allan George",VAN,1,19,19.00,19,0,25,8,33,0.0,0.0,Defense
+"Big Cat Bryant",AUB,1,20,20.00,20t,1,10,8,18,3.5,18.0,Defense
+"Patrick Surtain II",ALA,1,20,20.00,20,0,28,9,37,0.0,0.0,Defense
+"Ladarius Wiley",VAN,1,20,20.00,20,0,44,39,83,1.0,8.0,Defense
+"Christian Tutt",AUB,1,23,23.00,23,0,17,8,25,1.0,6.0,Defense
+"Lonnie Johnson",KY,1,24,24.00,24,0,17,6,23,0.0,0.0,Defense
+"Leon O'Neal Jr.",TAMU,1,25,25.00,25,0,8,6,14,0.0,0.0,Defense
+"Israel Mukuamu",SCAR,1,26,26.00,26,0,13,4,17,0.0,0.0,Defense
+"Darrell Williams",AUB,1,26,26.00,26t,1,37,37,74,1.0,8.0,Defense
+"Kyle Phillips",TENN,1,27,27.00,27t,1,27,28,55,4.0,37.0,Defense
+"Stephen Adegoke",MSST,1,29,29.00,29,0,5,4,9,0.0,0.0,Defense
+"Richard LeCounte III",UGA,1,29,29.00,29,0,45,29,74,0.0,0.0,Defense
+"Michael Divinity Jr.",LSU,1,31,31.00,31,0,20,34,54,4.0,21.0,Defense
+"Darrin Kirkland Jr.",TENN,1,33,33.00,33t,1,29,22,51,1.0,3.0,Defense
+"Tyrell Ajian",KY,1,35,35.00,35,0,5,5,10,0.0,0.0,Defense
+"Trey Dean III",FLA,1,44,44.00,44,0,16,10,26,0.0,0.0,Defense
+"Jacob Phillips",LSU,1,45,45.00,45t,1,32,55,87,1.0,6.0,Defense
+"Tyrel Dodson",TAMU,1,78,78.00,78t,1,42,28,70,0.5,0.0,Defense
+"Ventrell Miller",FLA,1,82,82.00,82t,1,8,7,15,1.0,9.0,Defense
+"Vernon Dasher",MISS,1,88,88.00,88t,1,18,18,36,0.0,0.0,Defense
+"Shawn Shamburger",TENN,0,-4,0.00,0,0,6,5,11,0.0,0.0,Defense
+"Micah Abernathy",TENN,0,0,0.00,0,0,22,16,38,0.0,0.0,Defense
+"Fletcher Adams",MSST,0,0,0.00,0,0,7,13,20,1.0,8.0,Defense
+"Feleti Afemui",VAN,0,0,0.00,0,0,2,0,2,0.0,0.0,Defense
+"Franklin Agbasimere",MIZZ,0,0,0.00,0,0,1,1,2,0.0,0.0,Defense
+"McTelvin Agim",ARK,0,0,0.00,0,0,19,26,45,4.5,25.0,Defense
+"Otaro Alaka",TAMU,0,0,0.00,0,0,39,40,79,4.0,26.0,Defense
+"Edwin Alexander",LSU,0,0,0.00,0,0,6,22,28,1.0,5.0,Defense
+"Terrence Alexander",LSU,0,0,0.00,0,0,17,6,23,0.0,0.0,Defense
