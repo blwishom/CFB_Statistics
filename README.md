@@ -1,5 +1,5 @@
-# College Football Statistics (Pac12 and SEC)
-Clone this github link to view my jupyter notebook:
+# College Football Statistics (Pac12 and SEC Defense)
+Clone this github link to view my jupyter notebooks:
 https://github.com/blwishom/CFB_Statistics.git
 
 #### Steps taken during this project:
